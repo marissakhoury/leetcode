@@ -4,5 +4,6 @@ Daily solutions for [leetcode top interview questions](https://leetcode.com/stud
 
 | Problem Number | Description                           | Solution Link                        | Completed |
 |----------------|---------------------------------------|--------------------------------------|-----------|
+| 27             | Remove Element                        | [#](solutions/27.py)                 | - [x]     |
 | 88             | Merge Sorted Array                    | [#](solutions/88.py)                 | - [x]     |
 
