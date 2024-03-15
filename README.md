@@ -8,4 +8,6 @@ Daily solutions for [leetcode top interview questions](https://leetcode.com/stud
 | 27             | Remove Element                        | [#](solutions/27.py)                 | - [x]     |
 | 80             | Remove Duplicates From Sorted Array II| [#](solutions/80.py)                 | - [x]     |
 | 88             | Merge Sorted Array                    | [#](solutions/88.py)                 | - [x]     |
+| 169            | Majority Element                      | [#](solutions/169.py)                | - [x]     |
+
 
