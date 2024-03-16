@@ -10,5 +10,6 @@ Daily solutions for [leetcode top interview questions](https://leetcode.com/stud
 | 88             | Merge Sorted Array                    | [#](solutions/88.py)                 | - [x]     |
 | 121            | Best Time to Buy/Sell Stock           | [#](solutions/121.py)                | - [x]     |
 | 169            | Majority Element                      | [#](solutions/169.py)                | - [x]     |
+| 189            | Rotate Array                          | [#](solutions/189.py)                | - [x]     |
 
 
