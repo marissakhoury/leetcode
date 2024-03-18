@@ -4,6 +4,7 @@ Daily solutions for [leetcode top interview questions](https://leetcode.com/stud
 
 | Problem Number | Description                           | Solution Link                        | Completed |
 |----------------|---------------------------------------|--------------------------------------|-----------|
+| 1              | Two Sum                               | [#](solutions/1.py)                  | - [x]     |
 | 9              | Palindrome Number                     | [#](solutions/9.py)                  | - [x]     |
 | 26             | Remove Duplicates From Sorted Array   | [#](solutions/26.py)                 | - [x]     |
 | 27             | Remove Element                        | [#](solutions/27.py)                 | - [x]     |
