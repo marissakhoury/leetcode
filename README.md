@@ -13,6 +13,7 @@ Daily solutions for [leetcode top interview questions](https://leetcode.com/stud
 | 80             | Remove Duplicates From Sorted Array II  | [#](solutions/80.py)                 | - [x]     |
 | 88             | Merge Sorted Array                      | [#](solutions/88.py)                 | - [x]     |
 | 100            | Same Tree                               | [#](solutions/100.py)                | - [x]     |
+| 101            | Symmetric Tree                          | [#](solutions/101.py)                | - [x]     |
 | 103            | Binary Tree Zigzag Level Order Traversal| [#](solutions/103.py)                | - [x]     |
 | 104            | Max Depth of Binary Tree                | [#](solutions/104.py)                | - [x]     |
 | 121            | Best Time to Buy/Sell Stock             | [#](solutions/121.py)                | - [x]     |
