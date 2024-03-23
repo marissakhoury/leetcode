@@ -18,6 +18,7 @@ Daily solutions for [leetcode top interview questions](https://leetcode.com/stud
 | 104            | Max Depth of Binary Tree                | [#](solutions/104.py)                | - [x]     |
 | 121            | Best Time to Buy/Sell Stock             | [#](solutions/121.py)                | - [x]     |
 | 125            | Valid Palindrome                        | [#](solutions/125.py)                | - [x]     |
+| 141            | Linked List Cycle                       | [#](solutions/141.py)                | - [x]     |
 | 169            | Majority Element                        | [#](solutions/169.py)                | - [x]     |
 | 189            | Rotate Array                            | [#](solutions/189.py)                | - [x]     |
 | 206            | Reverse Linked List                     | [#](solutions/206.py)                | - [x]     |
