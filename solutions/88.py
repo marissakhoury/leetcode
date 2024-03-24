@@ -32,9 +32,7 @@ def merge(nums1, m, nums2, n):
     last = m + n - 1
     # merge in reverse order
     while m > 0 and n > 0:
-        if (
-            nums1[m - 1] > nums2[n - 1]
-        ):  # comparing last real value of nums1 and last value of nums2
+        if (nums1[m - 1] > nums2[n - 1]):  # comparing last real value of nums1 and last value of nums2
             nums1[last] = nums1[m - 1]
             m -= 1
         else:
