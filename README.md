@@ -9,6 +9,7 @@ Daily solutions for [leetcode top interview questions](https://leetcode.com/stud
 | 15             | Three Sum                               | [#](solutions/15.py)                 | - [x]     |
 | 20             | Valid Parentheses                       | [#](solutions/20.py)                 | - [x]     |
 | 21             | Merge Two Sorted Lists                  | [#](solutions/21.py)                 | - [x]     |
+| 23             | Merge k Sorted Lists                    | [#](solutions/23.py)                 | - [x]     |
 | 26             | Remove Duplicates From Sorted Array     | [#](solutions/26.py)                 | - [x]     |
 | 27             | Remove Element                          | [#](solutions/27.py)                 | - [x]     |
 | 32             | Longest Valid Parentheses               | [#](solutions/32.py)                 | - [x]     |
