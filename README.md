@@ -13,6 +13,7 @@ Daily solutions for [leetcode top interview questions](https://leetcode.com/stud
 | 26             | Remove Duplicates From Sorted Array     | [#](solutions/26.py)                 | - [x]     |
 | 27             | Remove Element                          | [#](solutions/27.py)                 | - [x]     |
 | 32             | Longest Valid Parentheses               | [#](solutions/32.py)                 | - [x]     |
+| 58             | Length of Last Word                     | [#](solutions/58.py)                 | - [x]     |
 | 80             | Remove Duplicates From Sorted Array II  | [#](solutions/80.py)                 | - [x]     |
 | 88             | Merge Sorted Array                      | [#](solutions/88.py)                 | - [x]     |
 | 100            | Same Tree                               | [#](solutions/100.py)                | - [x]     |
