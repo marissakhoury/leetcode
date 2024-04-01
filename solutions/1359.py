@@ -10,3 +10,11 @@ def count_orders(n):
         output *= valid_choices
         slots -= 2
     return output % (10 ** 9 + 7)
+
+if __name__ == "__main__":
+    assert count_orders(1) == 1
+    assert count_orders(2) == 6
+    assert count_orders(3) == 90
+    assert count_orders(4) == 2520
+    
+    print("All tests passed!")
