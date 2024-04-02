@@ -6,6 +6,7 @@ Daily solutions for [leetcode top interview questions](https://leetcode.com/stud
 |----------------|-----------------------------------------|--------------------------------------|-----------|
 | 1              | Two Sum                                 | [#](solutions/1.py)                  | - [x]     |
 | 9              | Palindrome Number                       | [#](solutions/9.py)                  | - [x]     |
+| 13             | Roman to Integer                        | [#](solutions/13.py)                 | - [x]     |
 | 14             | Longest Common Prefix                   | [#](solutions/14.py)                 | - [x]     |
 | 15             | Three Sum                               | [#](solutions/15.py)                 | - [x]     |
 | 20             | Valid Parentheses                       | [#](solutions/20.py)                 | - [x]     |
