@@ -1,5 +1,8 @@
 """
 Problem Link: https://leetcode.com/problems/roman-to-integer/
+
+Time Complexity: O(n). Iterates once through the input string of length n, performing constant time operations for each character.
+Space Complexity: O(1). The space used does not grow with the size of the input. Constant space complexity. 
 """
 
 def roman_to_int(s):
