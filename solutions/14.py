@@ -1,5 +1,10 @@
 """
 Problem Link: https://leetcode.com/problems/longest-common-prefix/
+
+Time Complexity: O(m*n). In worst case, where all strings in array have the same length (m) and either share a common prefix for the entire length or have no common prefix detected until the end, we have m * n character comparisons. 
+- m is the length of the shortest string
+- n is the number of strings in the array
+Space Complexity: O(1). Constant space. 
 """
 
 def longest_common_prefix(strs):
