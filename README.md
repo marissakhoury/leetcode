@@ -34,6 +34,7 @@ Daily solutions for [leetcode top interview questions](https://leetcode.com/stud
 | 189            | Rotate Array                            | [#](solutions/189.py)                | - [x]     |
 | 206            | Reverse Linked List                     | [#](solutions/206.py)                | - [x]     |
 | 242            | Valid Anagram                           | [#](solutions/242.py)                | - [x]     |
+| 637            | Average of Levels in Binary Tree        | [#](solutions/637.py)                | - [x]     |
 | 1359           | Count All Valid Pickup/Delivery Options | [#](solutions/1359.py)               | - [x]     |
 
 
