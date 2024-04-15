@@ -32,6 +32,7 @@ Daily solutions for [leetcode top interview questions](https://leetcode.com/stud
 | 167            | Two Sum II                              | [#](solutions/167.py)                | - [x]     |
 | 169            | Majority Element                        | [#](solutions/169.py)                | - [x]     |
 | 189            | Rotate Array                            | [#](solutions/189.py)                | - [x]     |
+| 199            | Binary Tree Right Side View             | [#](solutions/199.py)                | - [x]     |
 | 206            | Reverse Linked List                     | [#](solutions/206.py)                | - [x]     |
 | 242            | Valid Anagram                           | [#](solutions/242.py)                | - [x]     |
 | 637            | Average of Levels in Binary Tree        | [#](solutions/637.py)                | - [x]     |
